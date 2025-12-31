@@ -34,7 +34,7 @@
 安装特定插件：
 
 ```bash
-/plugin install <plugin-name>@claude-plugins-marketplace
+/plugin install <plugin-name>@community-plugins-hub
 ```
 
 ### 4. 更新插件
@@ -104,7 +104,7 @@ claude-plugins-marketplace/
 /plugin marketplace add ./path/to/claude-plugins-marketplace
 
 # 测试安装插件
-/plugin install test-plugin@claude-plugins-marketplace
+/plugin install test-plugin@community-plugins-hub
 ```
 
 ## 企业使用
